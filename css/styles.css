@@ -1,0 +1,102 @@
+body{
+	margin:0px;
+	text-align:center;
+	font-family: 'Lato', sans-serif;
+}
+h1{
+	margin:100px auto 0 auto;
+	color:#87CEFA;
+	font-family: 'Sacramento', cursive;
+	font-size:50px;
+}
+h2{
+	color:#87CEFA;
+}
+h3{
+	color:#87CEFA;
+}
+
+.index{
+	font-family: 'Pacifico', cursive;
+	font-size:25px;
+}
+.top-container{
+	background-color:#E0FFFF;
+	padding-bottom:50px;
+}
+.mid-container{
+	
+}
+.bot-container{
+	
+}
+.content{
+	margin:10px auto 10px auto;
+	font-family: 'Baloo Chettan 2', cursive;
+}
+.top-cloud{
+	position: absolute;
+	top: 10px;
+	right: 390px;
+}
+.bot-cloud{
+	position: absolute;
+	left: 350px;
+	top: 200px;
+}
+.material-icons{
+	color:red;
+}
+hr{
+	display: block;
+	border-style:dotted none none;
+	border-color:#B0C4DE;
+	border-width: 8px;
+	width: 5%;
+	margin:50px auto 50px auto;
+}
+.avatar{
+	width:25%;
+}
+.code-img{
+	width:30%;
+	float:left;
+	margin:auto 20px auto auto;
+}
+.skills-row{
+	width:50%;
+	margin:auto auto 110px auto;
+	text-align:left;
+	line-height:1.5;
+}
+.favourite{
+	width:50%;
+	margin:auto auto 150px auto;
+	text-align:left;
+	line-height:1.5;
+}
+.ball{
+	width:30%;
+	float:right;
+	margin:auto 20px auto auto;
+}
+.btn {
+	background-color:#4682B4;
+	border-radius:25px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:bold;
+	padding:18px 31px;
+	text-decoration:none;
+	text-shadow:0px 0px 14px #2f6627;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
